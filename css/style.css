@@ -1,0 +1,157 @@
+body {
+  background-color: white;
+  margin: 0px;
+}
+.banner-area {
+  position: absolute;
+  left: 45%;
+  top: 15%;
+}
+.mainheading {
+  height: 100px;
+  width: fit-content;
+  margin: auto;
+  position: relative;
+  top: 45px;
+}
+.webdesigner {
+  padding-left: 30px;
+  font-family: "Fredoka", sans-serif;
+}
+.upper-area {
+  position: relative;
+  margin-left: 25%;
+  padding-top: 5vh;
+}
+.upper-area > img {
+  width: 90%;
+  height: 300px;
+  background-color: aliceblue;
+}
+.cloud-first {
+  position: relative;
+  padding-left: 25%;
+  padding-top: 3vh;
+}
+.cloud-second {
+  position: relative;
+  padding-left: 70%;
+  padding-top: 10vh;
+}
+.intro {
+  font-family: "Dancing Script", cursive;
+  color: #157a6e;
+}
+.my-image {
+  width: 20rem;
+  height: 10rem;
+  padding-left: 8rem;
+  margin: auto;
+}
+.my-image > img {
+  width: 50%;
+  border-radius: 100%;
+}
+.hello {
+  text-align: center;
+  font-family: "Dancing Script", cursive;
+  color: #157a6e;
+}
+.hello-content {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+}
+.heading-one {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+  color: #157a6e;
+}
+hr {
+  width: 10%;
+  border-top: 3px dotted gray;
+}
+.cartoon-text {
+  font-family: "Fredoka", sans-serif;
+  color: #157a6e;
+  padding-left: 70%;
+  width: 30%;
+}
+.para-second {
+  font-family: "Fredoka", sans-serif;
+}
+.cartoon {
+  display: inline-block;
+}
+.cartoon-image {
+  width: 20%;
+  height: 10%;
+  padding-left: 110%;
+}
+.heading-two {
+  font-family: "Fredoka", sans-serif;
+  color: #157a6e;
+  padding-left: 10%;
+}
+.para-third {
+  font-family: "Fredoka", sans-serif;
+  padding-left: 10%;
+}
+.help-section {
+  text-align: center;
+  width: 40%;
+  margin: auto;
+  /* background-color: gray; */
+  /* padding: 4rem; */
+}
+.left-text {
+  width: 30%;
+  padding-left: 30px;
+}
+.button {
+  color: white;
+  size: 40px;
+  background-color: #157a6e;
+  border-radius: 10%;
+}
+
+.footer {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #13695f;
+  margin-top: 20px;
+}
+.footer a {
+  font-family: "Fredoka", sans-serif;
+  color: #3db3a5;
+  text-decoration: none;
+}
+.footer a:hover {
+  color: #0b9c89;
+}
+.contact {
+  text-align: center;
+  margin: 5rem 0px 5rem 0px;
+}
+.social {
+  padding-bottom: 10px;
+}
+.copyright {
+  font-family: "Fredoka", sans-serif;
+}
+.btn {
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: "Fredoka", sans-seri;
+  color: #ffffff;
+  font-size: 15px;
+  background: #3db3a5;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #0b9c89;
+  text-decoration: none;
+}
